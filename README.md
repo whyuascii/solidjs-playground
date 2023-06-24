@@ -1,0 +1,2 @@
+# solidjs-playground
+Learning SolidJS
