@@ -1,0 +1,1 @@
+`/pages` - This folder could be used to store all your pages.

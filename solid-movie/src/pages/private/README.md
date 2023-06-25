@@ -1,0 +1,1 @@
+`/pages/private` - Pages behind a login

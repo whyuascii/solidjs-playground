@@ -1,0 +1,1 @@
+`/api` - This folder could be used to store all your API logic. You could split your API logic into queries (GET requests) and mutations (POST, PUT, DELETE, etc). The tanstack is used here for fetching, caching, and state management.

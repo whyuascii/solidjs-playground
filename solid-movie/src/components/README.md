@@ -1,0 +1,1 @@
+`/components` - This folder could be used to store all your reusable components. You could have a separate folder for each set of related components
